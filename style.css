@@ -1,4 +1,4 @@
-    * {
+oy    * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -9,7 +9,7 @@
             background-color: #f8f9fa;
             color: #333;
             line-height: 1.6;
-            padding-top: 70px; /* Account for fixed header */
+            padding-top: 70px;
         }
         
         .container {
@@ -146,7 +146,7 @@
             background: green;
         }
         footer {
-            background: #333;
+            background: pink;
             color: white;
             padding: 30px 0 15px;
             margin-top: 40px;
@@ -269,4 +269,5 @@
         .page-content.active {
             display: block;
         }
+
  
